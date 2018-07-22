@@ -13,7 +13,7 @@ Created on Sat Jun  9 00:19:15 2018
 """
 
 from tkinter import *
-import work1
+import EmployeDB
     
 
 def view_command():
