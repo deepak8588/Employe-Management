@@ -61,6 +61,3 @@ def update(id,firstname,lastname,mobile,birth,experience,salary,hire,email,addre
     conn.commit()
     conn.close()
 
-
-
-connect()
